@@ -28,7 +28,7 @@ Whether you're a developer, a project manager, or just interested in badges, thi
 
 ### Tutorial
 
-`[` `alt-text` explaining badge `]` `(` link -> `img.shields.io/badge/` badge name -> `badge_name` -> `-HEXcolor` badge style `?style=for-the-badge`->)
+`[` `alt-text` alternative text for accessibility `]` `(` link -> `img.shields.io/badge/` badge name -> `badge_name` -> `-HEXcolor` badge style `?style=for-the-badge`->)
 `![alt-text](https://img.shields.io/badge/badge-gray?style=for-the-badge)`
 
 ![alt-text](https://img.shields.io/badge/badge-gray?style=for-the-badge)
