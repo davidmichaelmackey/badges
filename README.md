@@ -34,21 +34,21 @@ Whether you're a developer, a project manager, or just interested in badges, thi
 
 ![alt-text](https://img.shields.io/badge/Google-gray?style=for-the-badge&logo=Google&logoColor=4285F4)
 
-`![alt-text](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=byte)`
+`![alt-text](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google)`
 
-![alt-text](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=byte)
+![alt-text](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google)
 
-`![alt-text](https://img.shields.io/badge/Search-Google-4285F4?style=for-the-badge&logo=Tesla&logoColor=4285F4)`
+`![alt-text](https://img.shields.io/badge/Search-Google-4285F4?style=for-the-badge&logo=Google&logoColor=4285F4)`
 
-![tesla](https://img.shields.io/badge/Search-Google-4285F4?style=for-the-badge&logo=Tesla&logoColor=4285F4)
+![tesla](https://img.shields.io/badge/Search-Google-4285F4?style=for-the-badge&logo=Google&logoColor=4285F4)
 
-`![alt-text](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=byte&logoColor=4285F4&labelColor=gray)`
+`![alt-text](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=4285F4&labelColor=gray)`
 
-![alt-text](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=byte&logoColor=4285F4&labelColor=gray)
+![alt-text](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=4285F4&labelColor=gray)
 
-`![alt-text](https://img.shields.io/badge/Google-gray?style=for-the-badge&logo=byte&labelColor=4285F4)`
+`![alt-text](https://img.shields.io/badge/Google-gray?style=for-the-badge&logo=Google&labelColor=4285F4)`
 
-![alt-text](https://img.shields.io/badge/Google-gray?style=for-the-badge&logo=byte&labelColor=4285F4)
+![alt-text](https://img.shields.io/badge/Google-gray?style=for-the-badge&logo=Google&labelColor=4285F4)
 
 
 ### Credits
