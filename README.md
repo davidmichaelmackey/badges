@@ -30,25 +30,25 @@ Whether you're a developer, a project manager, or just interested in badges, thi
 
 ### Examples
 
-`![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
+`![alt-text](https://img.shields.io/badge/Yin-CC0000?style=for-the-badge&logo=byte&logoColor=CC0000)`
 
-![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&logoColor=CC0000)
+![alt-text](https://img.shields.io/badge/Yin-gray?style=for-the-badge&logo=byte&logoColor=CC0000)
 
-`![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla)`
+`![alt-text](https://img.shields.io/badge/Yin-CC0000?style=for-the-badge&logo=byte)`
 
-![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla)
+![alt-text](https://img.shields.io/badge/Yin-CC0000?style=for-the-badge&logo=byte)
 
-`![alt-text](https://img.shields.io/badge/Tesla-Example-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
+`![alt-text](https://img.shields.io/badge/Yin-Yang-CC0000?style=for-the-badge&logo=byte&logoColor=CC0000)`
 
-![tesla](https://img.shields.io/badge/Tesla-Example-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)
+![tesla](https://img.shields.io/badge/Yin-Yang-CC0000?style=for-the-badge&logo=byte&logoColor=CC0000)
 
-`![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)`
+`![alt-text](https://img.shields.io/badge/Yin-CC0000?style=for-the-badge&logo=byte&logoColor=CC0000&labelColor=gray)`
 
-![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)
+![alt-text](https://img.shields.io/badge/Yin-CC0000?style=for-the-badge&logo=byte&logoColor=CC0000&labelColor=gray)
 
-`![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)`
+`![alt-text](https://img.shields.io/badge/Yin-gray?style=for-the-badge&logo=byte&labelColor=CC0000)`
 
-![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)
+![alt-text](https://img.shields.io/badge/Yin-gray?style=for-the-badge&logo=byte&labelColor=CC0000)
 
 
 ### Credits
