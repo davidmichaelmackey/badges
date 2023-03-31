@@ -30,21 +30,21 @@ Whether you're a developer, a project manager, or just interested in badges, thi
 
 `[` 
 
-alternative text for accessibility ➡️ `alt-text` 
+alternative text for accessibility: `alt-text` 
 
 `]` 
 
 `(`
 
-link ➡️ `https://img.shields.io/badge/` 
+link: `https://img.shields.io/badge/` 
 
-badge name ➡️ `Tesla` 
+badge name: `Tesla` 
 
-badge color ➡️ `-HEXcolor` 
+badge color: `-HEXcolor` 
 
-badge style ➡️ `?style=for-the-badge` 
+badge style: `?style=for-the-badge` 
 
-simple icons variable ➡️ `&logo=Tesla` 
+simple icons variable: `&logo=Tesla` 
 
 `)`
 
