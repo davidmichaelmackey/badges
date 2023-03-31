@@ -38,9 +38,9 @@ alternative text for accessibility: `alt-text`
 
 link: `https://img.shields.io/badge/` 
 
-badge name: `Tesla` 
+badge name: `Tesla-` 
 
-badge color: `-HEXcolor` 
+badge color: `HEXcode` 
 
 badge style: `?style=for-the-badge` 
 
