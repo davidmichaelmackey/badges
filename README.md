@@ -7,8 +7,8 @@
 
 - [Description](#description)
 - [Links](#links)
-- [Tutorial](#tutorial)
 - [Examples](#examples)
+- [Tutorial](#tutorial)
 - [Badges](#badges)
 - [Credits](#credits)
 
@@ -27,6 +27,12 @@ Whether you're a developer, a project manager, or just interested in badges, thi
 [Shields.io](https://shields.io/)
 <br>
 [Simple Icons](https://simpleicons.org/)
+
+### Example
+
+`![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)`
+
+![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)
 
 ### Tutorial
 
@@ -51,14 +57,6 @@ simple icons variable: `&logo=Tesla`
 label color: `&labelColor=gray`
 
 `)`
-
-
-### Example
-
-`![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)`
-
-![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)
-
 
 ### Badges
 
