@@ -140,7 +140,7 @@ label color: `&labelColor=gray`
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=E0234E&labelColor=gray)
 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=00C7B7&labelColor=gray
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=00C7B7&labelColor=gray)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=000000&labelColor=gray)
 
