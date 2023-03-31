@@ -20,35 +20,40 @@ The repo includes a live demo page where you can see the badges in action and ex
 
 Whether you're a developer, a project manager, or just interested in badges, this project is a great resource for learning about badges.io and how to use it to improve your project's visibility and credibility. Feel free to contribute your own badges or suggest improvements to the existing ones!
 
-### Tutorial
-
 ### Links
 
 [Shields.io](https://shields.io/)
 <br>
 [Simple Icons](https://simpleicons.org/)
 
+### Tutorial
+
+`[` `alt-text` explaining badge `]``(` link -> `img.shields.io/badge/` badge name -> `badge_name` -> `-HEXcolor` badge style `?style=for-the-badge`->)
+`![alt-text](https://img.shields.io/badge/badge-gray?style=for-the-badge)`
+
+![alt-text](https://img.shields.io/badge/badge-gray?style=for-the-badge)
+
 ### Examples
 
-`![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
+`![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
 
-![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&logoColor=CC0000)
+![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&logoColor=CC0000)
 
-`![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla)`
+`![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla)`
 
-![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla)
+![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla)
 
-`![alt-text](https://img.shields.io/badge/Tesla-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
+`![Tesla](https://img.shields.io/badge/Tesla-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
 
-![tesla](https://img.shields.io/badge/Tesla-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)
+![Tesla](https://img.shields.io/badge/Tesla-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)
 
-`![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)`
+`![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)`
 
-![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)
+![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)
 
-`![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)`
+`![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)`
 
-![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)
+![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)
 
 
 ### Credits
