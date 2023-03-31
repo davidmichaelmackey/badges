@@ -38,17 +38,17 @@ Whether you're a developer, a project manager, or just interested in badges, thi
 
 ![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla)
 
-`![alt-text](https://img.shields.io/badge/Tesla-Tesla-CC0000?style=for-the-badge&logo=Google&logoColor=CC0000)`
+`![alt-text](https://img.shields.io/badge/Tesla-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
 
-![tesla](https://img.shields.io/badge/Tesla-Tesla-CC0000?style=for-the-badge&logo=Google&logoColor=CC0000)
+![tesla](https://img.shields.io/badge/Tesla-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)
 
-`![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Google&logoColor=CC0000&labelColor=gray)`
+`![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)`
 
-![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Google&logoColor=CC0000&labelColor=gray)
+![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)
 
-`![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Google&labelColor=CC0000)`
+`![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)`
 
-![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Google&labelColor=CC0000)
+![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)
 
 
 ### Credits
