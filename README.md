@@ -93,7 +93,7 @@ simple icons variable: `&logo=Tesla`
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=gray)
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=Tailwind_CSS&logoColor=06B6D4&labelColor=gray)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=06B6D4&labelColor=gray)
 
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=00D1B2&labelColor=gray)
 
