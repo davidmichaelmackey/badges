@@ -62,9 +62,17 @@ label color: `&labelColor=gray`
 
 ### Badges
 
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=iTerm2&logoColor=000000&labelColor=gray)
+![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=000000&labelColor=gray)
+
+![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=Hyper&logoColor=000000&labelColor=gray)
+
+![Fig](https://img.shields.io/badge/Fig-000000?style=for-the-badge&logo=Fig&logoColor=000000&labelColor=gray)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=gray)
+
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=FC6D26&labelColor=gray)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=gray)
 
@@ -84,6 +92,8 @@ label color: `&labelColor=gray`
 
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=00D1B2&labelColor=gray)
 
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=Insomnia&logoColor=4000BF&labelColor=gray)
+
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=C21325&labelColor=gray)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=4479A1&labelColor=gray)
@@ -98,11 +108,15 @@ label color: `&labelColor=gray`
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=646CFF&labelColor=gray)
 
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=663399&labelColor=gray)
+
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=React-Router&logoColor=CA4245&labelColor=gray)
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=47848F&labelColor=gray)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=gray)
+
+![Ghost](https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=Ghost&logoColor=15171A&labelColor=gray)
 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=CB3837&labelColor=gray)
 
@@ -112,6 +126,8 @@ label color: `&labelColor=gray`
 
 ![.ENV](https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=ECD53F&labelColor=gray)
 
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=F44B21&labelColor=gray)
+
 ![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=000000&labelColor=gray)
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=000000&labelColor=gray)
@@ -120,13 +136,33 @@ label color: `&labelColor=gray`
 
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=Apollo-GraphQL&logoColor=311C87&labelColor=gray)
 
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=FC6D26&labelColor=gray)
+![Awesome Lists](https://img.shields.io/badge/Awesome_Lists-FC60A8?style=for-the-badge&logo=Awesome-Lists&logoColor=FC60A8&labelColor=gray)
 
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=F9DC3E&labelColor=gray)
+
+![Cycling '74](https://img.shields.io/badge/Cycling_'74-111111?style=for-the-badge&logo=Cycling-'74&logoColor=111111&labelColor=gray)
+
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=5865F2&labelColor=gray)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=2496ED&labelColor=gray)
+
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=Font-Awesome&logoColor=528DD7&labelColor=gray)
+
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=Google-Fonts&logoColor=4285F4&labelColor=gray)
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=430098&labelColor=gray)
+
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=FBB040&labelColor=gray)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
-
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=GitHub-Pages&logoColor=222222&labelColor=gray)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=2088FF&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
 
 ![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=Ableton-Live&logoColor=000000&labelColor=gray)
 
