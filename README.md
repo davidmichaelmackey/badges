@@ -48,38 +48,17 @@ badge style: `?style=for-the-badge`
 
 simple icons variable: `&logo=Tesla` 
 
+label color: `&labelColor=gray`
+
 `)`
 
 
-### Examples
-
-`![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge)`
-
-![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge)
-
-`![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge)`
-
-![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge)
-
-`![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
-
-![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&logoColor=CC0000)
-
-`![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla)`
-
-![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla)
-
-`![Tesla](https://img.shields.io/badge/Tesla-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
-
-![Tesla](https://img.shields.io/badge/Tesla-Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000)
+### Example
 
 `![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)`
 
 ![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=Tesla&logoColor=CC0000&labelColor=gray)
 
-`![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)`
-
-![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)
 
 ### Badges
 
