@@ -8,6 +8,7 @@
 - [Links](#links)
 - [Tutorial](#tutorial)
 - [Examples](#examples)
+- [Badges](#badges)
 - [Credits](#credits)
 
 ### Description
@@ -51,9 +52,13 @@ simple icons variable: `&logo=Tesla`
 
 ### Examples
 
-`![alt-text](https://img.shields.io/badge/badge-gray?style=for-the-badge)`
+`![alt-text](https://img.shields.io/badge/Tesla-gray?style=for-the-badge)`
 
 ![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge)
+
+`![alt-text](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge)`
+
+![Tesla](https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge)
 
 `![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
 
@@ -74,6 +79,11 @@ simple icons variable: `&logo=Tesla`
 `![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)`
 
 ![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&labelColor=CC0000)
+
+### Badges
+
+
+
 
 
 ### Credits
