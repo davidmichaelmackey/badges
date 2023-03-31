@@ -30,7 +30,7 @@ Whether you're a developer, a project manager, or just interested in badges, thi
 
 ### Tutorial
 
-`[` 
+`![` 
 
 alternative text for accessibility: `alt-text` 
 
