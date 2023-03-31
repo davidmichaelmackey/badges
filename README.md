@@ -1,4 +1,5 @@
-# Badges
+# { Badges }
+🏷
 
 *Please note that this project is still in its early stages and is a work in progress.*
 
