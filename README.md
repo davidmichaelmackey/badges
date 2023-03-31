@@ -62,6 +62,18 @@ label color: `&labelColor=gray`
 
 ### Badges
 
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=iTerm2&logoColor=000000&labelColor=gray)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=gray)
+
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=FC6D26&labelColor=gray)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=GitHub-Pages&logoColor=222222&labelColor=gray)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=2088FF&labelColor=gray)
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=gray)
 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=gray)
@@ -82,31 +94,23 @@ label color: `&labelColor=gray`
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=47A248&labelColor=gray)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB&labelColor=gray)
-
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=646CFF&labelColor=gray)
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB&labelColor=gray)
+
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=React-Router&logoColor=CA4245&labelColor=gray)
+
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=FF4154&labelColor=gray)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=gray)
+
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=76D04B&labelColor=gray)
 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=CB3837&labelColor=gray)
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=000000&labelColor=gray)
 
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=76D04B&labelColor=gray)
-
 ![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=000000&labelColor=gray)
-
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=iTerm2&logoColor=000000&labelColor=gray)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=gray)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
-
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=GitHub-Pages&logoColor=222222&labelColor=gray)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=2088FF&labelColor=gray)
-
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=FC6D26&labelColor=gray)
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=000000&labelColor=gray)
 
