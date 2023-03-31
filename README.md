@@ -1,8 +1,6 @@
 # Badges
 
-*NOTE*
-<br>
-This project is very new and a WiP. 🗂
+*Please note that this project is still in its early stages and is a work in progress.*
 
 ## Table of Contents
 
