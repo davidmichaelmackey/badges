@@ -28,12 +28,32 @@ Whether you're a developer, a project manager, or just interested in badges, thi
 
 ### Tutorial
 
-`[` `alt-text` alternative text for accessibility `]` `(` link -> `https://img.shields.io/badge/` badge name -> `badge_name` -> `-HEXcolor` badge style `?style=for-the-badge`->)
-`![alt-text](https://img.shields.io/badge/badge-gray?style=for-the-badge)`
+`[` 
 
-![alt-text](https://img.shields.io/badge/badge-gray?style=for-the-badge)
+alternative text for accessibility --> `alt-text` 
+
+`]` 
+
+`(`
+
+link --> `https://img.shields.io/badge/` 
+
+badge name --> `Tesla` 
+
+badge color --> `-HEXcolor` 
+
+badge style --> `?style=for-the-badge` 
+
+simple icons variable --> `&logo=Tesla` 
+
+`)`
+
 
 ### Examples
+
+`![alt-text](https://img.shields.io/badge/badge-gray?style=for-the-badge)`
+
+![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge)
 
 `![Tesla](https://img.shields.io/badge/Tesla-gray?style=for-the-badge&logo=Tesla&logoColor=CC0000)`
 
