@@ -68,17 +68,51 @@ label color: `&labelColor=gray`
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=gray)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=gray)
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=gray)
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=06B6D4&labelColor=gray)
 
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=00D1B2&labelColor=gray)
 
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=C21325&labelColor=gray)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=4479A1&labelColor=gray)
+
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=52B0E7&labelColor=gray)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=47A248&labelColor=gray)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB&labelColor=gray)
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=646CFF&labelColor=gray)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=gray)
+
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=CB3837&labelColor=gray)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=000000&labelColor=gray)
+
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=76D04B&labelColor=gray)
+
+![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=000000&labelColor=gray)
+
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=iTerm2&logoColor=000000&labelColor=gray)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=gray)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=gray)
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=GitHub-Pages&logoColor=222222&labelColor=gray)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=2088FF&labelColor=gray)
+
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=FC6D26&labelColor=gray)
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=000000&labelColor=gray)
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=E10098&labelColor=gray)
+
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=Apollo-GraphQL&logoColor=311C87&labelColor=gray)
 
 ### Credits
 
