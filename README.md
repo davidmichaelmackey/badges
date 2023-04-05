@@ -106,6 +106,8 @@ label color: `&labelColor=gray`
 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=E10098&labelColor=gray)
 
+![handlebars.js](https://img.shields.io/badge/Handlebars.js-E34F26?style=for-the-badge&logo=Handlebars.js&logoColor=E34F26&labelColor=gray)
+
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=430098&labelColor=gray)
 
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=FBB040&labelColor=gray)
