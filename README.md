@@ -126,6 +126,8 @@ label color: `&labelColor=gray`
 
 ![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=000000&labelColor=gray)
 
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=0769AD&labelColor=gray)
+
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=F44B21&labelColor=gray)
 
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=Material-Design&logoColor=757575&labelColor=gray)
