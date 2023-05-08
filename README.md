@@ -25,7 +25,7 @@ Whether you're a developer, a project manager, or just interested in badges, thi
 ### Links
 
 [Shields.io](https://shields.io/)
-<br>
+</br>
 [Simple Icons](https://simpleicons.org/)
 
 ### Example
@@ -36,23 +36,23 @@ Whether you're a developer, a project manager, or just interested in badges, thi
 
 ### Tutorial
 
-`![` 
+`![`
 
-alternative text for accessibility: `alt-text` 
+alternative text for accessibility: `alt-text`
 
-`]` 
+`]`
 
 `(`
 
-link: `https://img.shields.io/badge/` 
+link: `https://img.shields.io/badge/`
 
-badge name: `Tesla-` 
+badge name: `Tesla-`
 
-badge color: `HEXcode` 
+badge color: `HEXcode`
 
-badge style: `?style=for-the-badge` 
+badge style: `?style=for-the-badge`
 
-simple icons variable: `&logo=Tesla` 
+simple icons variable: `&logo=Tesla`
 
 label color: `&labelColor=gray`
 
